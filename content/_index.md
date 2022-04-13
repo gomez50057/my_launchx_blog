@@ -13,7 +13,7 @@ Soy un graduado de CBTIs 222 con conocimiento en depuración, diseño de softwar
 
 ## Mis expectativas para este proyecto 🚀
 
-// Incrementar  mis habilidades de programación en backend y frontend como HTML, CSS, JavaScript.
+<!-- Incrementar  mis habilidades de programación en backend y frontend como HTML, CSS, JavaScript. -->
 
 ° Saber cómo mejorar la experiencia de Usuario.
 
@@ -23,6 +23,8 @@ Soy un graduado de CBTIs 222 con conocimiento en depuración, diseño de softwar
 
 ° Manejo de administración en bases de datos.
 
-* Aprender nuevas herramientas y formas de elaborar un proceso de manera eficiente y rapida.
+/* Aprender nuevas herramientas y formas de elaborar un proceso de manera eficiente y rapida. */
+
+
 
 
