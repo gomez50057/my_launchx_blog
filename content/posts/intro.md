@@ -8,7 +8,7 @@ description: 'Este es mi primer post de la travesía en la Misión de Backend co
 
 - Saber aceptar soluciones alternativas.
 
-- ser eficiente y creativo.
+- Ser eficiente y creativo.
 
 - Tener capacidad de adaptación.
 
