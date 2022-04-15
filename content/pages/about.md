@@ -15,10 +15,15 @@ Hola, aquí vas a leer un poco sobre mi 🤩
 
 ## Lo que me agrada
 
-** Salir a caminar 🚶🏻
+** Salir a caminar 🚶
+
 ** Tomar fotografías 🎞️
+
 ** Aprender temas relacionados a la tecnología 👨🏻‍💻
+
 ** Me interesa la moda👗
+
 ** Comer pizza 🍕
+
 ** Jugar fútbol 🥅
 
