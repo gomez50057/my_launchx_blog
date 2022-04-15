@@ -13,15 +13,12 @@ Hola, aquí vas a leer un poco sobre mi 🤩
 > de equipo capaz de aprender y aplicar nuevas tecnologías rápidamente. Actualmente soy estudiante de la 
 > Universidad Politécnica de Pachuca.
 
-
-**Cineres Nile ipsa** origine discurrunt adest Unde, et quem clausus, imo,
-virens quoque tales, potuit. Ingentes insilit corpore nutricis praebebat roganti
-licuit. Denique a vestros adulantum in bella lina parte et arte generi di igitur
-quis, digitis pedes. Cum resonant tamen, namque in anxia. Non nostri trahens
-ancora.
-
-
-## Algo sobre mi 😎
-
-
 ## Lo que me agrada
+
+** Salir a caminar 🚶🏻
+** Tomar fotografías 🎞️
+** Aprender temas relacionados a la tecnología 👨🏻‍💻
+** Me interesa la moda👗
+** Comer pizza 🍕
+** Jugar fútbol 🥅
+
