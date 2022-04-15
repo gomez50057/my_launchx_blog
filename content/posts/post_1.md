@@ -1,7 +1,7 @@
 ---
 title: "Mi ruta de aprendizaje en Launch X"
 date: 2022-03-01
-description: 'Mi travesia como explorer en Launch-X'
+description: 'Mi travesia como explorer en Launch-X.'
 ---
 
 Hola! Quiero contarte todo lo que he aprendido, recordado y reforzado en este maravilloso recorrido como explorer en la misión  Launch X con ayuda de mis comansder's.
